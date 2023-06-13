@@ -19,8 +19,8 @@ public class SuperPower {
     }
 
     public static void main(String[] args) {
-        int a=1;
-        int b[] = {4,3,3,8,5,2};
+        int a=2;
+        int b[] = {1,0};
         System.out.println(superPow(a,b));
     }
 }
